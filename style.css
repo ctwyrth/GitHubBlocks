@@ -1,0 +1,75 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: wheat;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-family: fantasy;
+    margin: 20px 0 0;
+}
+
+p {
+    margin: 15px auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    margin: 20px auto;
+    background-color: lightcoral;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.octocat-pics {
+    width: 175px;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+
+.row {
+    width: 750px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 15px;
+}
+
+.color1 {
+    background-color: lemonchiffon;
+}
+
+.color2 {
+    background-color: lightsalmon;
+}
+
+.color3 {
+    background-color: moccasin;
+}
+
+.color4 {
+    background-color: seashell;
+}
+
+.color5 {
+    background-color: papayawhip;
+}
+
+.right-shadow {
+    box-shadow: 5px 5px 6px rgba(0, 0, 0, .80);
+}
+
+.left-shadow {
+    box-shadow: -8px 8px 8px rgba(0, 0, 0, .75);
+}
