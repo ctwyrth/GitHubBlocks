@@ -24,7 +24,7 @@ p {
     flex-direction: column;
     width: 900px;
     margin: 20px auto;
-    background-color: lightcoral;
+    background-color: lightslategray;
     border-radius: 10px;
     align-items: center;
 }
@@ -47,15 +47,15 @@ p {
 }
 
 .color1 {
-    background-color: lemonchiffon;
+    background-color: steelblue;
 }
 
 .color2 {
-    background-color: lightsalmon;
+    background-color: silver;
 }
 
 .color3 {
-    background-color: moccasin;
+    background-color: ghostwhite;
 }
 
 .color4 {
@@ -63,7 +63,7 @@ p {
 }
 
 .color5 {
-    background-color: papayawhip;
+    background-color: slategray;
 }
 
 .right-shadow {
